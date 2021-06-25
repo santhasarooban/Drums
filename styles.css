@@ -78,12 +78,7 @@
     box-shadow: 0 4px 5px 0 #4b4b4b;
     opacity:1;
 }
-#row1{
-    text-align: center;
-}
-#row2{
-    text-align: center;
-}
+
 @media  screen and (min-width:780px) and (max-width:1020px) {
  #row1{
      margin-left:100px;
@@ -126,11 +121,11 @@
   
     #row1{
         margin-left:100px;
-        text-align: center;
+       
     }
     #row2{
         margin-left:100px;
-        text-align: center;
+       
     }
       h1{
           font-size: 50px;
